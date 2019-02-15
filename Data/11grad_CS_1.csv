@@ -1,0 +1,16 @@
+BUILDING,DAY,IN TIME,OUT TIME,REASON,WEATHER OUTSIDE
+None,SUNDAY,-,-,-,Windy and Sun
+Psychology and Computer Science,MONDAY,08:52,09:56,CSCI 502,Windy and Sun
+Library,,10:00,10:15,Technology Support Desk,Windy and Sun
+Psychology and Computer Science,,16:51,18:19,CSCI 627,Overcast
+Psychology and Computer Science,TUESDAY,10:58,12:20,CSCI 512,Overcast
+Library,,12:30,13:20,Technology Support Desk,Overcast
+Health Services,,13:25,14:10,Immunization,Overcast
+Psychology and Computer Science,WEDNESDAY,08:58,10:00,CSCI 502,Fog
+Library,,10:04,10:40,To collect some Information,Fog
+Psychology and Computer Science,,16:55,18:00,CSCI 627,Fog
+Psychology and Computer Science,THURSDAY,10:55,12:18,CSCI 512,Light rain
+Health Services,,12:40,13:00,Submitting Immunization Reports,Light rain
+Psychology and Computer Science,FRIDAY,09:00,10:00,CSCI 502,Overcast
+Holmes Student centre,,16:55,17:59,ISA Meet,Clear
+None,SATURDAY,-,-,-,Sunny
