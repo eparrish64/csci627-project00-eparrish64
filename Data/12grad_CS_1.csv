@@ -1,0 +1,30 @@
+Building,Day,IN,"HR IN",OUT,"HR OUT",Reason
+Parking,Sunday,12:04:00,,12:06:00,,"Car Park"
+"Farday Hall",Sunday,12:10:00,,13:30:00,,"Office - Collect laptop"
+Parking,Sunday,13:35:00,,13:42:00,,"Car Pickup"
+Parking,Monday,15:00:00,,15:07:00,,"Car Park"
+"farday Hall",Monday,15:12:00,,16:58:00,,"Office "
+"Computer science building",Monday,17:02:00,,18:17:00,,"CSCI 627"
+"Farday Hall",Monday,17:23:00,,19:42:00,,"Office "
+Parking,Monday,19:48:00,,19:55:00,,"Car Pickup"
+Parking,Tuesday,10:00:00,,10:12:00,,"Car Park"
+"Farday Hall",Tuesday,10:18:00,,15:00:00,,"Office "
+"Holmes Student Center",Tuesday,15:14:00,,15:58:00,,Lunch
+Parking,Tuesday,16:08:00,,16:14:00,,"Car Pickup"
+"Rec Center",Wednesday,07:06:00,,07:51:00,,Exercise
+Parking,Wednesday,09:15:00,,09:28:00,,"Car Park"
+"Farday Hall",Wednesday,09:44:00,,14:05:00,,"Office "
+Library,Wednesday,14:14:00,,14:58:00,,Lunch
+"Farday Hall",Wednesday,15:06:00,,16:57:00,,"Office "
+"Computer science building",Wednesday,17:04:00,,18:23:00,,"CSCI 627"
+Parking,Wednesday,18:29:00,,18:34:00,,"Car Pickup"
+Parking,Thursday,09:45:00,,09:51:00,,"Car Park"
+"Computer science building",Thursday,09:56:00,,12:15:00,,"240 Office hours"
+"Holmes Student Center",Thursday,12:23:00,,13:21:00,,Lunch
+Parking,Thursday,13:29:00,,13:35:00,,"Car Pickup"
+"Rec Center",Thursday,17:07:00,,19:08:00,,Exercise/Sauna
+Parking,Friday,09:58:00,,10:04:00,,"Car Park"
+"Computer science building",Friday,10:08:00,,12:18:00,,"240 Office hours"
+Parking,Friday,12:24:00,,12:29:00,,"Car Pickup"
+"Rec Center",Friday,17:06:00,,18:45:00,,Exercise
+"Rec Center",Saturday,17:54:00,,18:52:00,,Exercise

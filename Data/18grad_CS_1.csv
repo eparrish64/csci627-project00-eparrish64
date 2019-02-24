@@ -1,0 +1,48 @@
+Buildings,"Arrival Day","Arrival Time","Leaving Day","Leaving Time",Reason,Activities,"Activity Type"
+"Friend's House",Monday,12:00am,Monday,2:00am,Dinner,Dinner,Non-Academic
+"My House",Monday,2:10am,Monday,10:00am,Rest,Sleep,Non-Academic
+"Gilbert Dining Hall",Monday,10:10am,Monday,10:15am,"Drop Friend","Drop Friend",Non-Academic
+"Friend's House",Monday,10:30am,Monday,12:45pm,Lunch,Lunch,Non-Academic
+"Engineering Building",Monday,1:00pm,Monday,3:00pm,Assistantship,"Work on Data Analysis",Academic
+"Gilbert Dining Hall",Monday,3:05pm,Monday,3:10pm,"Pick-up Friend","Pick-up Friend",Non-Academic
+"My House",Monday,3:20pm,Monday,3:30pm,"Drop Friend","Drop Friend",Non-Academic
+"Friend's House",Monday,3:40pm,Monday,4:45pm,"Work on Data Analysis"," Work on Data Analysis",Academic
+"CS Building ",Monday,5:00pm,Monday,6:30pm,"CSCI-627 Class",Class,Academic
+"Friend's House",Monday,6:45pm,Monday,10:45pm,Assignment,Assignment,Academic
+"My House",Monday,10:50pm,Monday,11:00pm,Fresh-up,Fresh-up,Non-Academic
+Tacobell,Monday,11:05pm,Monday,11:15pm,Dinner,Dinner,Non-Academic
+"Friend's House",Monday,11:30pm,Tuesday,1:45am,Hangout,Hangout,Non-Academic
+"My House",Tuesday,2:00am,Tuesday,9:45am,Sleep,Sleep,Non-Academic
+"Engineering Building",Tuesday,10:00am,Tuesday,12:00pm,"Work on Data Analysis","Work on Data Analysis",Academic
+"Friend's House",Tuesday,12:05pm,Tuesday,1:30pm,"Work on Data Analysis","Work on Data Analysis",Academic
+"CS Building ",Tuesday,1:45pm,Tuesday,2:00pm,"Drop Friend","Drop Friend",Non-Academic
+"Friend's House",Tuesday,2:05pm,Tuesday,3:30pm,Lunch,Lunch,Non-Academic
+"CS Building ",Tuesday,3:45pm,Tuesday,4:00pm,"Meeting with Dr.Duffin","Meeting with Dr.Duffin",Academic
+"My House",Tuesday,4:10pm,Tuesday,4:15pm,Fresh-up,Fresh-up,Non-Academic
+"NIU Recreation Centre",Tuesday,4:20pm,Tuesday,5:30pm,Workout,Workout,Non-Academic
+"Friend's House",Tuesday,6:00pm,Tuesday,11:00pm,Sleep,Sleep,Non-Academic
+"My House",Tuesday,11:15pm,Wednesday,9:00am,Sleep,Sleep,Non-Academic
+"Engineering Building",Wednesday,9:30am,Wednesday,"1:00pm ",Work,Work,Academic
+"Friend's House",Wednesday,1:30pm,Wednesday,4:00pm,Lunch,Lunch,Non-Academic
+"CS Building ",Wednesday,4:45pm,Wednesday,7:15pm,"CSCI-627 Class",Class,Academic
+"Friend's House",Wednesday,"7:30pm ",Wednesday,10:00pm,Dinner,Dinner,Non-Academic
+"My House",Wednesday,10:15pm,Thursday,9:00am,Sleep,Sleep,Non-Academic
+"Engineering Building",Thursday,9:30am,Thursday,12:00pm,Work,Work,Academic
+"Friend's House",Thursday,12:30pm,Thursday,2:00pm,Lunch,Lunch,Non-Academic
+"My House",Thursday,2:30pm,Thursday,5:00pm,Assignment,Assignment,Academic
+"Friend's House",Thursday,5:30pm,Thursday,7:00pm,Hangout,Hangout,Non-Academic
+"NIU Recreation Centre",Thursday,"7:30pm ",Thursday,9:30pm,Workout,Workout,Non-Academic
+"Friend's House",Thursday,10:00pm,Friday,1:00am,Dinner,Dinner,Non-Academic
+"My House",Friday,1:30am,Friday,10:00am,Sleep,Sleep,Non-Academic
+"Engineering Building",Friday,10:15am,Friday,3:00pm,"Work Presentation","Work Presentation",Academic
+"Friend's House",Friday,3:30pm,Friday,6:00pm,Lunch,Lunch,Non-Academic
+"NIU Recreation Centre",Friday,6:30pm,Friday,8:00pm,Workout,Workout,Non-Academic
+"Friend's House",Friday,8:30pm,Friday,11:45pm,Partying,Partying,Non-Academic
+Mollys,Saturday,12:30am,Saturday,2:00am,Partying,Partying,Non-Academic
+"Friend's House",Saturday,2:30am,Saturday,12:00pm,Sleep,Sleep,Non-Academic
+"My House",Saturday,12:15pm,Saturday,3:00pm,"Work on Data Analysis","Work on Data Analysis",Academic
+"NIU Recreation Centre",Saturday,3:15pm,Saturday,7:00pm,Workout,Workout,Non-Academic
+"Friend's House",Saturday,"7:30pm ",Sunday,11:00am,Partying,Partying,Non-Academic
+"My House",Sunday,11:15am,Sunday,5:00pm,"Work on Data Analysis","Work on Data Analysis",Academic
+"Mardi Gras Lanes",Sunday,5:30pm,Sunday,10:00pm,Bowling,Bowling,Non-Academic
+"My House",Sunday,10:30pm,Sunday,12:00am,Sleep,Sleep,Non-Academic
