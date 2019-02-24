@@ -1,0 +1,397 @@
+,Building,Reason,Time_Diff
+0,Psych/Comp Science Building,CSCI 627,95.0
+1,Gabel Hall,Meet with an RA,10.0
+2,Psych/Comp Science Building,CSCI 503,95.0
+3,Gilbert Hall,Lunch,70.0
+4,Psych/Comp Science Building,CSCI 642,85.0
+5,Founder Memorial Library,Library,70.0
+6,Psych/Comp Science Building,CSCI 627,95.0
+7,Psych/Comp Science Building,CSCI 503,95.0
+8,Psych/Comp Science Building,CSCI 642,90.0
+9,Faraday Hall,Meet with TA for CSCI 503 ,20.0
+10,Faraday Hall,Meet with TA for CSCI 322,10.0
+11,Parking Garage,park car,2.0
+12,computer science building,go to data visualization,83.0
+13,Parking Garage,retrieve car,7.0
+14,Parking Garage,park car,-689.0
+15,computer science building,go to algorithms,103.0
+16,Founders Library,reload niu one card,9.0
+17,Parking Garage,retrieve car,6.0
+18,Parking Garage,park car,7.0
+19,computer science building,go to data visualization,69.0
+20,Parking Garage,retrieve car,4.0
+21,Parking Garage,park car,5.0
+22,computer science building,go to algorithms,127.0
+23,Swen Parson,walk through,3.0
+24,Adams Hall,get information about graduation/after graduation,8.0
+25,Founders Library,food,15.0
+26,Parking Garage,retrieve car,5.0
+27,Psych\CS Building,CSCI 627,170.0
+28,Psych\CS Building,CSCI 503,104.0
+29,Psych\CS Building,Meet with CSCI 503 TA,95.0
+30,Reavis Hall,Meet with a friend,10.0
+31,Adams Hall,Consultation,25.0
+32,Psych\CS Building,CSCI 627,142.0
+33,Psych\CS Building,CSCI 503,92.0
+34,Founders Memorial Library,Self study,103.0
+35,Founders Memorial Library,Self study,134.0
+36,Student Recreation Center,Playing Basketball,96.0
+37,Cole Hall,CSCI 522,95.0
+38,Psyc-Computer ,Study & CSCI 627,200.0
+39,Dusable Hall,STAT 573,82.0
+40,Psyc-Computer ,Study,56.0
+41,Cole Hall,CSCI 522,115.0
+42,Dusable Hall,Meet with STAT 573 Professor,33.0
+43,Psyc-Computer ,Study & CSCI 627,223.0
+44,Psyc-Computer ,Study,95.0
+45,Dusable Hall,STAT 573,86.0
+46,Graham Hall ,STAT 573A,65.0
+47,,,64.0
+48,,,82.0
+49,,,62.0
+50,,,83.0
+51,,,60.0
+52,,,86.0
+53,,,40.0
+54,,,90.0
+55,,,88.0
+56,,,116.0
+57,,,30.0
+58,,,89.0
+59,,,-688.0
+60,,,60.0
+61,,,29.0
+62,,,100.0
+63,,,141.0
+64,,,30.0
+65,,,13.0
+66,,,11.0
+67,,,33.0
+68,,,149.0
+69,Psychology-Computer Science,Data visualization course,99.0
+70,Psychology-Computer Science,Python course,79.0
+71,Psychology-Computer Science,Algorithm course,90.0
+72,Student Recreation Center,work out,105.0
+73,Foundation Memorial Library,studying,182.0
+74,Psychology-Computer Science,Data visualization course,93.0
+75,Psychology-Computer Science,Python course,85.0
+76,Psychology-Computer Science,Algorithm course,90.0
+77,founders memorial library,work on assignment,120.0
+78,recreation center,workout,90.0
+79,adams hall,meeting,30.0
+80,computer science,meeting,50.0
+81,computer science,class,75.0
+82,recreation center,workout,75.0
+83,computer science,meeting,30.0
+84,holmes student center,job hunting,40.0
+85,cole hall,meeting,30.0
+86,recreation center,workout,30.0
+87,holmes student center,job hunting,90.0
+88,computer science,class,75.0
+89,recreation center,workout,120.0
+90,computer science,meeting,30.0
+91,founders memorial library,chill,40.0
+92,cole hall,class,80.0
+93,recreation center,workout,120.0
+94,recreation center,workout,180.0
+95,founders memorial library,work on assignment,180.0
+96,recreation center,workout,60.0
+97,recreation center,workout,120.0
+98,Cole Hall,Android class,90.0
+99,NIU Computer Science Building,Date Vis,90.0
+100,recreation center,workout,130.0
+101,NIU Computer Science Building,Python,80.0
+102,recreation center,workout,120.0
+103,Cole Hall,Android class,90.0
+104,NIU Computer Science Building,Date Vis,90.0
+105,recreation center,workout,80.0
+106,NIU Computer Science Building,Python,80.0
+107,recreation center,basketball,200.0
+108,NIU College of Business,study and go the homework,160.0
+109,recreation center,workout,100.0
+110,Parking lot,,1.0
+111,Faraday,,180.0
+112,CS Building,,113.0
+113,Parking Lot,,3.0
+114,Parking Lot,,22.0
+115,Faraday,,177.0
+116,CS Building,,96.0
+117,Parking Lot,,8.0
+118,Writz Hall,Chinese New Year Active,90.0
+119,Student Recreation Center,Fitness,88.0
+120,Psychology-Computer Science ,Data Visualization Class,90.0
+121,Psychology-Computer Science ,Python Class,95.0
+122,Psychology-Computer Science ,Algorithm Class,95.0
+123,Student Recreation Center,Fitness,96.0
+124,Student Recreation Center,Fitness,45.0
+125,Founders Memorial Library,homework,175.0
+126,Psychology-Computer Science ,Data Visualization Class,85.0
+127,Psychology-Computer Science ,Python Class,95.0
+128,Psychology-Computer Science ,Algorithm Class,175.0
+129,Student Recreation Center,Fitness,45.0
+130,Engineering Building,Robotic Club,50.0
+131,Campus Life Buliding,Chinese New Year Active,300.0
+132,Student Recreation Center,Fitness,119.0
+133,,Work,295.0
+134,,coffee,25.0
+135,,grab laptop,15.0
+136,,class,90.0
+137,,grab backpack,5.0
+138,,Work,235.0
+139,,coffee,25.0
+140,,Work,45.0
+141,,class,90.0
+142,,grab backpack,5.0
+143,,work,210.0
+144,Founders Library,Studying Algorithms,120.0
+145,Recreation Center,Gym,45.0
+146,Psych-ComputerScience,CSCI627 Class,75.0
+147,Psych-ComputerScience,CSCI602 Class,75.0
+148,Recreation Center,Gym,60.0
+149,psych-ComputerScience,CSCI627 Class,75.0
+150,Recreation Center,Gym,60.0
+151,psych-ComputerScience,CSCI602 Class,75.0
+152,Recreation Center,Gym,60.0
+153,Willston hall,ISFO,30.0
+154,Founders Library,Project Work,80.0
+155,Student Recreation Center,Gym and Volleyball,120.0
+156,Psychology and Computer Science,Data Visualization,89.0
+157,Psychology and Computer Science,Python,90.0
+158,Psychology and Computer Science,Information Storage and Retrieval,95.0
+159,Psychology and Computer Science,Data Visualization,89.0
+160,Psychology and Computer Science,Python,113.0
+161,Psychology and Computer Science,Information Storage and Retrieval,100.0
+162,Student Recreation Center,Gym and Volleyball,127.0
+163,Holmes Student Center,ISA Meeting,54.0
+164,Founders Library,Study,217.0
+165,Student Recreation Center,Gym and Volleyball,102.0
+166,Founders Memorial Library,Applied to jobs and Explored Front End Technologies,240.0
+167,Student Recreation Center,Table Tennis and Lawn Tennis,120.0
+168,Founders Memorial Library,"Data visualization Assignment, Readings",230.0
+169,Psychology-Computer Science Building,Data visualization Lecture,75.0
+170,Student Recreation Center,Badminton,104.0
+171,Founders Memorial Library,"Applied to jobs, studied ASP.Net and borrowed a book",300.0
+172,Student Recreation Center,Badminton,140.0
+173,Williston Hall,Picked up the Underload Form at ISFO,15.0
+174,Psychology-Computer Science Building,Filled and submitted the underload form in the CS dept,15.0
+175,Psychology-Computer Science Building,Data Visualization Lecture,75.0
+176,Founders Memorial Library,"Applied to jobs, studied  HTML5 and explored some of the best web applications built. ",194.0
+177,Student Recreation Center,Lawn Tennis and Badminton,155.0
+178,Student Recreation Center,Badminton and Table Tennis,119.0
+179,Psychology-Computer Science Building,Picked up the Underload Form from the CS dept,6.0
+180,Williston Hall,Submitted the underload Form at ISFO,11.0
+181,Student Recreation Center,Badminton,77.0
+182,Student Recreation Center,Badminton,118.0
+183,Cole Hall,Android Programming Class,85.0
+184,Health Services,Medicine Re-Fill,50.0
+185,Gabel Hall,RA Office Hours,210.0
+186,Computer Science and Psycology Building,Data Visualization Class,95.0
+187,Computer Science and Psycology Building,Computer Networks Class,80.0
+188,McDonalds,Lunch,35.0
+189,Gabel Hall,RA Office Hours,305.0
+190,Cole Hall,Android Programming Class,70.0
+191,Chipotle,Lunch,30.0
+192,Gabel Hall,RA Office Hours,250.0
+193,Computer Science and Psycology Building,Data Visualization Class,95.0
+194,Computer Science and Psycology Building,Computer Networks Class,80.0
+195,Chipotle,Lunch,30.0
+196,Gabel Hall,RA Office Hours,345.0
+197,NIU Student Recreation Center,Work-Out,60.0
+198,Faraday Hall,TA Hours,310.0
+199,Psych/Comp,CSCI 627,100.0
+200,Library,Printouts,30.0
+201,Psych/Comp,CSCI 503 & CSCI 602,290.0
+202,Faraday Hall,TA Hours,160.0
+203,Psych/Comp,CSCI 627,100.0
+204,Psych/Comp,CSCI 503 & CSCI 602,270.0
+205,Parking,Car Park,2.0
+206,Farday Hall,Office - Collect laptop,80.0
+207,Parking,Car Pickup,7.0
+208,Parking,Car Park,7.0
+209,farday Hall,Office ,106.0
+210,Computer science building,CSCI 627,75.0
+211,Farday Hall,Office ,139.0
+212,Parking,Car Pickup,7.0
+213,Parking,Car Park,12.0
+214,Farday Hall,Office ,282.0
+215,Holmes Student Center,Lunch,44.0
+216,Parking,Car Pickup,6.0
+217,Rec Center,Exercise,45.0
+218,Parking,Car Park,13.0
+219,Farday Hall,Office ,261.0
+220,Library,Lunch,44.0
+221,Farday Hall,Office ,111.0
+222,Computer science building,CSCI 627,79.0
+223,Parking,Car Pickup,5.0
+224,Parking,Car Park,6.0
+225,Computer science building,240 Office hours,139.0
+226,Holmes Student Center,Lunch,58.0
+227,Parking,Car Pickup,6.0
+228,Rec Center,Exercise/Sauna,121.0
+229,Parking,Car Park,6.0
+230,Computer science building,240 Office hours,130.0
+231,Parking,Car Pickup,5.0
+232,Rec Center,Exercise,99.0
+233,Rec Center,Exercise,58.0
+234,Engineering,IEEE Meeting,50.0
+235,CS/Psych,IRS class,77.0
+236,CS/Psych,Research Work,47.0
+237,CS/Psych,"Research Work, Data Vis class",249.0
+238,CS/Psych,IRS class,108.0
+239,CS/Psych,Research Meeting,144.0
+240,,Gym,66.0
+241,,CSCI 522 class,80.0
+242,,Shift,242.0
+243,,CSCI 627 class,80.0
+244,,CSCI 602 class,97.0
+245,,Linkedin Workshop,81.0
+246,,Shift,230.0
+247,,Gym,81.0
+248,,CSCI 522 class,72.0
+249,,Shift,230.0
+250,,CSCI 627 class,78.0
+251,,Gym,87.0
+252,,CSCI 602 class,91.0
+253,,Shift,231.0
+254,,ISA Meeting ,16.0
+255,,Dinner,120.0
+256,,Rest,470.0
+257,,Drop Friend,5.0
+258,,Lunch,135.0
+259,,Assistantship,120.0
+260,,Pick-up Friend,5.0
+261,,Drop Friend,10.0
+262,,Work on Data Analysis,65.0
+263,,CSCI-627 Class,90.0
+264,,Assignment,240.0
+265,,Fresh-up,10.0
+266,,Dinner,10.0
+267,,Hangout,135.0
+268,,Sleep,465.0
+269,,Work on Data Analysis,120.0
+270,,Work on Data Analysis,85.0
+271,,Drop Friend,15.0
+272,,Lunch,85.0
+273,,Meeting with Dr.Duffin,15.0
+274,,Fresh-up,5.0
+275,,Workout,70.0
+276,,Sleep,300.0
+277,,Sleep,585.0
+278,,Work,210.0
+279,,Lunch,150.0
+280,,CSCI-627 Class,150.0
+281,,Dinner,150.0
+282,,Sleep,645.0
+283,,Work,150.0
+284,,Lunch,90.0
+285,,Assignment,150.0
+286,,Hangout,90.0
+287,,Workout,120.0
+288,,Dinner,180.0
+289,,Sleep,510.0
+290,,Work Presentation,285.0
+291,,Lunch,150.0
+292,,Workout,90.0
+293,,Partying,195.0
+294,,Partying,90.0
+295,,Sleep,570.0
+296,,Work on Data Analysis,165.0
+297,,Workout,225.0
+298,,Partying,-9150.0
+299,,Work on Data Analysis,345.0
+300,,Bowling,270.0
+301,,Sleep,-1350.0
+302,Recreation Center,exercise,60.0
+303,Panda House,lunch,30.0
+304,Psychology/C.S. building,class,255.0
+305,Psychology/C.S. building,class,75.0
+306,Holmes Student Center,lunch,180.0
+307,Recreation Center,exercise,90.0
+308,Holmes Student Center,lunch,30.0
+309,Altgeld Hall,homework,165.0
+310,Psychology/C.S. building,class,75.0
+311,Psychology/C.S. building,class,75.0
+312,Holmes Student Center,lunch,30.0
+313,Altgeld Hall,homework,255.0
+314,Holmes Student Center,homework,270.0
+315,SH,Research,43.0
+316,SH,Research,150.0
+317,PM,Python,78.0
+318,PM,Python,28.0
+319,AD,IRB,68.0
+320,PM,Thesis,100.0
+321,SH,Research,72.0
+322,PM,DataVis,159.0
+323,PM,DataVis,87.0
+324,PM,Python,75.0
+325,AD,Grad,34.0
+326,WI,OPT,39.0
+327,,"Cook, eat and sleep",929.0
+328,,Ping pong,80.0
+329,,"Cook, eat and sleep",-445.0
+330,,CSCI 522,80.0
+331,,Breakfast,40.0
+332,,Work,230.0
+333,,Lunch,20.0
+334,,CSCI 627,80.0
+335,,"Cook, eat and sleep",-360.0
+336,,CSCI 602,130.0
+337,,Work,180.0
+338,,"Cook, eat and sleep",-520.0
+339,,CSCI 522,70.0
+340,,Work,230.0
+341,,Lunch,45.0
+342,,CSCI 627,95.0
+343,,"Cook, eat and sleep",-270.0
+344,,CSCI 602,70.0
+345,,Work,195.0
+346,,Dinner,200.0
+347,,Shopping,45.0
+348,,Flix and chill,-315.0
+349,,Gym and Ping pong,110.0
+350,,Flix and chill,-190.0
+351,,Ping pong,110.0
+352,,Cleaning,109.0
+353,Home,going to School,110.0
+354,NIU Parking Deck,going to CS Building,3.0
+355,CS Building,going to Adams Hall,5.0
+356,Adams Hall,going to ISFO,2.0
+357,Williston Hall,back to CS building,6.0
+358,CS Building,going to parking,5.0
+359,NIU Parking Deck,going to home,80.0
+360,Home,going to School,111.0
+361,NIU Parking Deck,going to CS Building,4.0
+362,CS Building,going to parking,8.0
+363,NIU Parking Deck,going to home,45.0
+364,friends place,hangout,-240.0
+365,home,"cooking, gaming , studying",360.0
+366,recreational center,workout,100.0
+367,home,"fresh up, finish english assignment",110.0
+368,Mardi Gras Lanes,bowling,240.0
+369,Home,"dinner, laundry",-630.0
+370,home,sleep,-240.0
+371,Library,work ,300.0
+372,Home,"eat, read data vis papers",180.0
+373,Psychology Building,Data Visualisation class,75.0
+374,"Walmart, HyVee",Groceries Shopping,120.0
+375,Home,"eat, finish assignment",-540.0
+376,home,sleep,-330.0
+377,home,read IRS slides,330.0
+378,Reavis Hall,English class,75.0
+379,Psychology Building,Information Storage and Retrival Class,90.0
+380,Library,work,360.0
+381,Home,sleep,-210.0
+382,Starbucks,study,240.0
+383,Home,"lunch, assignment corrections",130.0
+384,Psychology Building,Data Visualisation class,75.0
+385,home,datacamp courses,-390.0
+386,Home,watched environment documentaries,-480.0
+387,Reavis Hall,English class,75.0
+388,Psychology Building,Information Storage and Retrival Class,90.0
+389,Library,Work,240.0
+390,recreational center,workout,90.0
+391,home,"sleep, study, cook",180.0
+392,Recreational Center,Table Tennis,90.0
+393,"Gurukrupa,Walmart",Groceries Shopping,60.0
+394,Home,datacamp courses,210.0
+395,Mollys,chill,-660.0
