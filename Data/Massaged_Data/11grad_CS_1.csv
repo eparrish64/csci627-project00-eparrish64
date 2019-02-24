@@ -1,0 +1,6 @@
+,BUILDING,DAY,IN TIME,OUT TIME,REASON,WEATHER OUTSIDE,Time_In,Time_Out,Time_Diff
+1,Psychology and Computer Science,2/4/2019,08:52,09:56,CSCI 502,Windy and Sun,2019-02-04 08:52:00,2019-02-04 09:56:00,64.0
+4,Psychology and Computer Science,2/5/2019,10:58,12:20,CSCI 512,Overcast,2019-02-05 10:58:00,2019-02-05 12:20:00,82.0
+7,Psychology and Computer Science,2/6/2019,08:58,10:00,CSCI 502,Fog,2019-02-06 08:58:00,2019-02-06 10:00:00,62.0
+10,Psychology and Computer Science,2/7/2019,10:55,12:18,CSCI 512,Light rain,2019-02-07 10:55:00,2019-02-07 12:18:00,83.0
+12,Psychology and Computer Science,2/8/2019,09:00,10:00,CSCI 502,Overcast,2019-02-08 09:00:00,2019-02-08 10:00:00,60.0

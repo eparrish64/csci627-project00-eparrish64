@@ -1,0 +1,16 @@
+,Building,Day,Weekend,In,Out,Reason,Time_In,Time_Out,Time_Diff
+0,Writz Hall,2/3/19,Sunday,12:30,14:00,Chinese New Year Active,2019-02-03 12:30:00,2019-02-03 14:00:00,90.0
+1,Student Recreation Center,2/3/19,Sunday,17:00,18:28,Fitness,2019-02-03 17:00:00,2019-02-03 18:28:00,88.0
+2,Psychology-Computer Science ,2/4/19,Monday,16:45,18:15,Data Visualization Class,2019-02-04 16:45:00,2019-02-04 18:15:00,90.0
+3,Psychology-Computer Science ,2/5/19,Tuesday,10:45,12:20,Python Class,2019-02-05 10:45:00,2019-02-05 12:20:00,95.0
+4,Psychology-Computer Science ,2/5/19,Tuesday,13:45,15:20,Algorithm Class,2019-02-05 13:45:00,2019-02-05 15:20:00,95.0
+5,Student Recreation Center,2/5/19,Tuesday,16:00,17:36,Fitness,2019-02-05 16:00:00,2019-02-05 17:36:00,96.0
+6,Student Recreation Center,2/6/19,Wednesday,9:15,10:00,Fitness,2019-02-06 09:15:00,2019-02-06 10:00:00,45.0
+7,Founders Memorial Library,2/6/19,Wednesday,13:45,16:40,homework,2019-02-06 13:45:00,2019-02-06 16:40:00,175.0
+8,Psychology-Computer Science ,2/6/19,Wednesday,16:50,18:15,Data Visualization Class,2019-02-06 16:50:00,2019-02-06 18:15:00,85.0
+9,Psychology-Computer Science ,2/7/19,Thursday,10:45,12:20,Python Class,2019-02-07 10:45:00,2019-02-07 12:20:00,95.0
+10,Psychology-Computer Science ,2/7/19,Thursday,12:30,15:25,Algorithm Class,2019-02-07 12:30:00,2019-02-07 15:25:00,175.0
+11,Student Recreation Center,2/7/19,Thursday,17:30,18:15,Fitness,2019-02-07 17:30:00,2019-02-07 18:15:00,45.0
+12,Engineering Building,2/7/19,Thursday,19:15,20:05,Robotic Club,2019-02-07 19:15:00,2019-02-07 20:05:00,50.0
+13,Campus Life Buliding,2/8/19,Friday,16:15,21:15,Chinese New Year Active,2019-02-08 16:15:00,2019-02-08 21:15:00,300.0
+14,Student Recreation Center,2/9/19,Saturday,13:11,15:10,Fitness,2019-02-09 13:11:00,2019-02-09 15:10:00,119.0

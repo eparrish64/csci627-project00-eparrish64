@@ -1,0 +1,14 @@
+,Day,In,Out,Building,Reason,mood,peried(h : mm),Time_In,Time_Out,Time_Diff
+0,2/3/2019,17:00,19:00,recreation center,workout,good,2 : 00,2019-02-03 17:00:00,2019-02-03 19:00:00,120.0
+1,2/4/2019,10:00,11:30,Cole Hall,Android class,good,1 : 30,2019-02-04 10:00:00,2019-02-04 11:30:00,90.0
+2,2/4/2019,17:00,18:30,NIU Computer Science Building,Date Vis,good,1 : 30,2019-02-04 17:00:00,2019-02-04 18:30:00,90.0
+3,2/4/2019,20:00,22:10,recreation center,workout,really good,2 : 10,2019-02-04 20:00:00,2019-02-04 22:10:00,130.0
+4,2/5/2019,11:00,12:20,NIU Computer Science Building,Python,sad,1 : 20,2019-02-05 11:00:00,2019-02-05 12:20:00,80.0
+5,2/5/2019,19:30,21:30,recreation center,workout,good,2 : 00,2019-02-05 19:30:00,2019-02-05 21:30:00,120.0
+6,2/6/2019,10:00,11:30,Cole Hall,Android class,good,1 : 30,2019-02-06 10:00:00,2019-02-06 11:30:00,90.0
+7,2/6/2019,17:00,18:30,NIU Computer Science Building,Date Vis,good,1 : 30,2019-02-06 17:00:00,2019-02-06 18:30:00,90.0
+8,2/6/2019,20:00,21:20,recreation center,workout,tired,1 : 20,2019-02-06 20:00:00,2019-02-06 21:20:00,80.0
+9,2/7/2019,11:00,12:20,NIU Computer Science Building,Python,good,1 : 20,2019-02-07 11:00:00,2019-02-07 12:20:00,80.0
+10,2/7/2019,19:40,23:00,recreation center,basketball,very good,3 : 20,2019-02-07 19:40:00,2019-02-07 23:00:00,200.0
+11,2/8/2019,12:20,15:00,NIU College of Business,study and go the homework,good,2 : 40,2019-02-08 12:20:00,2019-02-08 15:00:00,160.0
+12,2/9/2019,13:00,14:40,recreation center,workout,really good,1 : 40,2019-02-09 13:00:00,2019-02-09 14:40:00,100.0
