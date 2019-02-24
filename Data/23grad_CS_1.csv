@@ -1,11 +1,12 @@
-﻿Date,Day,Building,Action,Reason,Mode of Transport,Mood,Time_In,Time_Out
-02/04/2019,Monday,NIU Parking Deck,Enter,Park my Car,Drving,Energetic,02/04/2019,02/04/2019
-02/04/2019,Monday,CS Building,Enter,Office Hours DDI Lab,Walking,Optimistic,02/04/2019,02/04/2019
-02/04/2019,Monday,Adams Hall,Enter,discuss about graduation,Walking,Indifferent,02/04/2019,02/04/2019
-02/04/2019,Monday,Williston Hall,Enter,discuss about I20,Walking,Indifferent,02/04/2019,02/04/2019
-02/04/2019,Monday,CS Building,Enter,Office Hours DDI Lab,Walking,Thinking,02/04/2019,02/04/2019
-02/04/2019,Monday,NIU Parking Deck,Enter,get my parked car,Walking,happy,02/04/2019,02/04/2019
-02/04/2019,Monday,Home ,Enter,return from School,Driving,happy,02/04/2019,02/06/2019
-02/06/2019,Wednasday,NIU Parking Deck,Enter,Park my Car,Driving,Peaceful,02/06/2019,02/06/2019
-02/06/2019,Wednasday,CS Building,Enter,Office Hours DDI Lab,Walking,Gloomy,02/06/2019,02/06/2019
-02/06/2019,Wednasday,NIU Parking Deck,Enter,get my parked car,Walking,Sad,02/06/2019,02/06/2019
+Day,Building,Reason,Mode of Transport,Mood,Time_In,Time_Out
+Monday,Home,going to School,Driving,Cranky,4/2/19 7:35,4/2/19 9:25
+Monday,NIU Parking Deck,going to CS Building,Walking,Energetic,4/2/19 9:33,4/2/19 9:36
+Monday,CS Building,going to Adams Hall,Walking,Indifferent,4/2/19 11:05,4/2/19 11:10
+Monday,Adams Hall,going to ISFO,Walking,Indifferent,4/2/19 11:18,4/2/19 11:20
+Monday,Williston Hall,back to CS building,Walking,Indifferent,4/2/19 11:24,4/2/19 11:30
+Monday,CS Building,going to parking,Walking,tired/happy,4/2/19 18:25,4/2/19 18:30
+Monday,NIU Parking Deck,going to home,Driving,happy,4/2/19 18:40,4/2/19 20:00
+Wednasday,Home,going to School,Driving,Cranky,6/2/19 7:35,6/2/19 9:26
+Wednasday,NIU Parking Deck,going to CS Building,Walking,Peaceful,6/2/19 9:32,6/2/19 9:36
+Wednasday,CS Building,going to parking,Walking,Gloomy,6/2/19 19:00,6/2/19 19:08
+Wednasday,NIU Parking Deck,going to home,Driving,Sad,6/2/19 19:15,6/2/19 20:00

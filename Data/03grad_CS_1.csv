@@ -1,12 +1,12 @@
 Day,In,Out,Building,Reason
 Sunday,2:00PM,4:00PM,"Founders Library","Studying Algorithms"
-,4:15PM,5:00PM,"Recreation Center",Gym
+Sunday,4:15PM,5:00PM,"Recreation Center",Gym
 Monday,5:00PM,6:15PM,Psych-ComputerScience,"CSCI627 Class"
 Tuesday,2:00PM,3:15PM,Psych-ComputerScience,"CSCI602 Class"
-,4:00PM,5:00PM,"Recreation Center",Gym
+Tuesday,4:00PM,5:00PM,"Recreation Center",Gym
 Wednesday,5:00PM,6:15PM,psych-ComputerScience,"CSCI627 Class"
-,6:30PM,7:30PM,"Recreation Center",Gym
+Wednesday,6:30PM,7:30PM,"Recreation Center",Gym
 Thursday,2:00PM,3:15PM,psych-ComputerScience,"CSCI602 Class"
-,3:30PM,4:30PM,"Recreation Center",Gym
+Thursday,3:30PM,4:30PM,"Recreation Center",Gym
 Friday,10:00AM,10:30AM,"Willston hall",ISFO
-Satuarday,11:00AM,12:20PM,"Founders Library","Project Work"
+Saturday,11:00AM,12:20PM,"Founders Library","Project Work"

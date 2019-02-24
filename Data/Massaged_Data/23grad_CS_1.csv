@@ -1,0 +1,12 @@
+,Day,Building,Reason,Mode of Transport,Mood,Time_In,Time_Out,Time_Diff
+0,Monday,Home,going to School,Driving,Cranky,2019-04-02 07:35:00,2019-04-02 09:25:00,110.0
+1,Monday,NIU Parking Deck,going to CS Building,Walking,Energetic,2019-04-02 09:33:00,2019-04-02 09:36:00,3.0
+2,Monday,CS Building,going to Adams Hall,Walking,Indifferent,2019-04-02 11:05:00,2019-04-02 11:10:00,5.0
+3,Monday,Adams Hall,going to ISFO,Walking,Indifferent,2019-04-02 11:18:00,2019-04-02 11:20:00,2.0
+4,Monday,Williston Hall,back to CS building,Walking,Indifferent,2019-04-02 11:24:00,2019-04-02 11:30:00,6.0
+5,Monday,CS Building,going to parking,Walking,tired/happy,2019-04-02 18:25:00,2019-04-02 18:30:00,5.0
+6,Monday,NIU Parking Deck,going to home,Driving,happy,2019-04-02 18:40:00,2019-04-02 20:00:00,80.0
+7,Wednasday,Home,going to School,Driving,Cranky,2019-06-02 07:35:00,2019-06-02 09:26:00,111.0
+8,Wednasday,NIU Parking Deck,going to CS Building,Walking,Peaceful,2019-06-02 09:32:00,2019-06-02 09:36:00,4.0
+9,Wednasday,CS Building,going to parking,Walking,Gloomy,2019-06-02 19:00:00,2019-06-02 19:08:00,8.0
+10,Wednasday,NIU Parking Deck,going to home,Driving,Sad,2019-06-02 19:15:00,2019-06-02 20:00:00,45.0

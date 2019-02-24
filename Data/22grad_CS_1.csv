@@ -1,27 +1,27 @@
 Place,Day,In,Out,Reason
 Home,Sunday,00:01:00,15:30:00,"Cook, eat and sleep"
-"Recreation centre ",Sunday,15:40:00,17:00:00,"Ping pong"
-Home,Sunday,17:10:00,"09:45:00 (+1)","Cook, eat and sleep"
+"Recreation centre",Sunday,15:40:00,17:00:00,"Ping pong"
+Home,Sunday,17:10:00,"09:45:00","Cook, eat and sleep"
 "Cole Hall",Monday,10:00:00,11:20:00,"CSCI 522"
-"Home ","Monday ",11:35:00,12:15:00,"Breakfast "
+"Home","Monday",11:35:00,12:15:00,"Breakfast"
 "Stevenson Towers",Monday,12:30:00,16:20:00,Work
 Home,Monday,16:30:00,16:50:00,Lunch
 "CS Building",Monday,17:00:00,18:20:00,"CSCI 627"
-Home,Monday,19:00:00,"13:00:00 (+1)","Cook, eat and sleep"
+Home,Monday,19:00:00,"13:00:00","Cook, eat and sleep"
 "CS Building",Tuesday,13:05:00,15:15:00,"CSCI 602"
 "Stevenson Towers",Tuesday,15:30:00,18:30:00,Work
-"Home ",Tuesday,18:45:00,10:05:00(+1),"Cook, eat and sleep"
+"Home",Tuesday,18:45:00,10:05:00,"Cook, eat and sleep"
 "Cole Hall",Wednesday,10:20:00,11:30:00,"CSCI 522"
 "Stevenson Towers",Wednesday,11:45:00,15:35:00,Work
-"Home ",Wednesday,15:45:00,16:30:00,Lunch
+"Home",Wednesday,15:45:00,16:30:00,Lunch
 "CS Building",Wednesday,16:35:00,18:10:00,"CSCI 627"
-"Home ",Wednesday,18:20:00,13:50:00(+1),"Cook, eat and sleep"
-"CS Building","Thursday ",14:00:00,15:10:00,"CSCI 602"
-"Stevenson Towers","Thursday ",15:15:00,18:30:00,Work
-"Home ","Thursday ",18:40:00,22:00:00,Dinner
-Walmart,"Thursday ",22:15:00,23:00:00,Shopping
-"Home ","Thursday ",23:15:00,18:00:00(+1),"Flix and chill"
-"Recreation centre ",Friday,18:10:00,20:00:00,"Gym and Ping pong"
-"Home ",Friday,20:10:00,17:00:00(+1),"Flix and chill"
-"Recreation centre ","Saturday ",17:10:00,19:00:00,"Ping pong"
-"Home ","Saturday ",22:10:00,23:59:00,Cleaning
+"Home",Wednesday,18:20:00,13:50:00,"Cook, eat and sleep"
+"CS Building","Thursday",14:00:00,15:10:00,"CSCI 602"
+"Stevenson Towers","Thursday",15:15:00,18:30:00,Work
+"Home","Thursday",18:40:00,22:00:00,Dinner
+Walmart,"Thursday",22:15:00,23:00:00,Shopping
+"Home","Thursday",23:15:00,18:00:00,"Flix and chill"
+"Recreation centre",Friday,18:10:00,20:00:00,"Gym and Ping pong"
+"Home",Friday,20:10:00,17:00:00,"Flix and chill"
+"Recreation centre","Saturday",17:10:00,19:00:00,"Ping pong"
+"Home","Saturday",22:10:00,23:59:00,Cleaning

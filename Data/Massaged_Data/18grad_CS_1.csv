@@ -1,0 +1,48 @@
+,Buildings,Arrival Day,Arrival Time,Leaving Day,Leaving Time,Reason,Activities,Activity Type,Time_In,Time_Out,Time_Diff
+0,Friend's House,2/4/2019,12:00am,2/4/2019,2:00am,Dinner,Dinner,Non-Academic,2019-02-04 00:00:00,2019-02-04 02:00:00,120.0
+1,My House,2/4/2019,2:10am,2/4/2019,10:00am,Rest,Sleep,Non-Academic,2019-02-04 02:10:00,2019-02-04 10:00:00,470.0
+2,Gilbert Dining Hall,2/4/2019,10:10am,2/4/2019,10:15am,Drop Friend,Drop Friend,Non-Academic,2019-02-04 10:10:00,2019-02-04 10:15:00,5.0
+3,Friend's House,2/4/2019,10:30am,2/4/2019,12:45pm,Lunch,Lunch,Non-Academic,2019-02-04 10:30:00,2019-02-04 12:45:00,135.0
+4,Engineering Building,2/4/2019,1:00pm,2/4/2019,3:00pm,Assistantship,Work on Data Analysis,Academic,2019-02-04 13:00:00,2019-02-04 15:00:00,120.0
+5,Gilbert Dining Hall,2/4/2019,3:05pm,2/4/2019,3:10pm,Pick-up Friend,Pick-up Friend,Non-Academic,2019-02-04 15:05:00,2019-02-04 15:10:00,5.0
+6,My House,2/4/2019,3:20pm,2/4/2019,3:30pm,Drop Friend,Drop Friend,Non-Academic,2019-02-04 15:20:00,2019-02-04 15:30:00,10.0
+7,Friend's House,2/4/2019,3:40pm,2/4/2019,4:45pm,Work on Data Analysis, Work on Data Analysis,Academic,2019-02-04 15:40:00,2019-02-04 16:45:00,65.0
+8,CS Building ,2/4/2019,5:00pm,2/4/2019,6:30pm,CSCI-627 Class,Class,Academic,2019-02-04 17:00:00,2019-02-04 18:30:00,90.0
+9,Friend's House,2/4/2019,6:45pm,2/4/2019,10:45pm,Assignment,Assignment,Academic,2019-02-04 18:45:00,2019-02-04 22:45:00,240.0
+10,My House,2/4/2019,10:50pm,2/4/2019,11:00pm,Fresh-up,Fresh-up,Non-Academic,2019-02-04 22:50:00,2019-02-04 23:00:00,10.0
+11,Tacobell,2/4/2019,11:05pm,2/4/2019,11:15pm,Dinner,Dinner,Non-Academic,2019-02-04 23:05:00,2019-02-04 23:15:00,10.0
+12,Friend's House,2/4/2019,11:30pm,2/5/2019,1:45am,Hangout,Hangout,Non-Academic,2019-02-04 23:30:00,2019-02-05 01:45:00,135.0
+13,My House,2/5/2019,2:00am,2/5/2019,9:45am,Sleep,Sleep,Non-Academic,2019-02-05 02:00:00,2019-02-05 09:45:00,465.0
+14,Engineering Building,2/5/2019,10:00am,2/5/2019,12:00pm,Work on Data Analysis,Work on Data Analysis,Academic,2019-02-05 10:00:00,2019-02-05 12:00:00,120.0
+15,Friend's House,2/5/2019,12:05pm,2/5/2019,1:30pm,Work on Data Analysis,Work on Data Analysis,Academic,2019-02-05 12:05:00,2019-02-05 13:30:00,85.0
+16,CS Building ,2/5/2019,1:45pm,2/5/2019,2:00pm,Drop Friend,Drop Friend,Non-Academic,2019-02-05 13:45:00,2019-02-05 14:00:00,15.0
+17,Friend's House,2/5/2019,2:05pm,2/5/2019,3:30pm,Lunch,Lunch,Non-Academic,2019-02-05 14:05:00,2019-02-05 15:30:00,85.0
+18,CS Building ,2/5/2019,3:45pm,2/5/2019,4:00pm,Meeting with Dr.Duffin,Meeting with Dr.Duffin,Academic,2019-02-05 15:45:00,2019-02-05 16:00:00,15.0
+19,My House,2/5/2019,4:10pm,2/5/2019,4:15pm,Fresh-up,Fresh-up,Non-Academic,2019-02-05 16:10:00,2019-02-05 16:15:00,5.0
+20,NIU Recreation Centre,2/5/2019,4:20pm,2/5/2019,5:30pm,Workout,Workout,Non-Academic,2019-02-05 16:20:00,2019-02-05 17:30:00,70.0
+21,Friend's House,2/5/2019,6:00pm,2/5/2019,11:00pm,Sleep,Sleep,Non-Academic,2019-02-05 18:00:00,2019-02-05 23:00:00,300.0
+22,My House,2/5/2019,11:15pm,2/6/2019,9:00am,Sleep,Sleep,Non-Academic,2019-02-05 23:15:00,2019-02-06 09:00:00,585.0
+23,Engineering Building,2/6/2019,9:30am,2/6/2019,1:00pm ,Work,Work,Academic,2019-02-06 09:30:00,2019-02-06 13:00:00,210.0
+24,Friend's House,2/6/2019,1:30pm,2/6/2019,4:00pm,Lunch,Lunch,Non-Academic,2019-02-06 13:30:00,2019-02-06 16:00:00,150.0
+25,CS Building ,2/6/2019,4:45pm,2/6/2019,7:15pm,CSCI-627 Class,Class,Academic,2019-02-06 16:45:00,2019-02-06 19:15:00,150.0
+26,Friend's House,2/6/2019,7:30pm ,2/6/2019,10:00pm,Dinner,Dinner,Non-Academic,2019-02-06 19:30:00,2019-02-06 22:00:00,150.0
+27,My House,2/6/2019,10:15pm,2/7/2019,9:00am,Sleep,Sleep,Non-Academic,2019-02-06 22:15:00,2019-02-07 09:00:00,645.0
+28,Engineering Building,2/7/2019,9:30am,2/7/2019,12:00pm,Work,Work,Academic,2019-02-07 09:30:00,2019-02-07 12:00:00,150.0
+29,Friend's House,2/7/2019,12:30pm,2/7/2019,2:00pm,Lunch,Lunch,Non-Academic,2019-02-07 12:30:00,2019-02-07 14:00:00,90.0
+30,My House,2/7/2019,2:30pm,2/7/2019,5:00pm,Assignment,Assignment,Academic,2019-02-07 14:30:00,2019-02-07 17:00:00,150.0
+31,Friend's House,2/7/2019,5:30pm,2/7/2019,7:00pm,Hangout,Hangout,Non-Academic,2019-02-07 17:30:00,2019-02-07 19:00:00,90.0
+32,NIU Recreation Centre,2/7/2019,7:30pm ,2/7/2019,9:30pm,Workout,Workout,Non-Academic,2019-02-07 19:30:00,2019-02-07 21:30:00,120.0
+33,Friend's House,2/7/2019,10:00pm,2/8/2019,1:00am,Dinner,Dinner,Non-Academic,2019-02-07 22:00:00,2019-02-08 01:00:00,180.0
+34,My House,2/8/2019,1:30am,2/8/2019,10:00am,Sleep,Sleep,Non-Academic,2019-02-08 01:30:00,2019-02-08 10:00:00,510.0
+35,Engineering Building,2/8/2019,10:15am,2/8/2019,3:00pm,Work Presentation,Work Presentation,Academic,2019-02-08 10:15:00,2019-02-08 15:00:00,285.0
+36,Friend's House,2/8/2019,3:30pm,2/8/2019,6:00pm,Lunch,Lunch,Non-Academic,2019-02-08 15:30:00,2019-02-08 18:00:00,150.0
+37,NIU Recreation Centre,2/8/2019,6:30pm,2/8/2019,8:00pm,Workout,Workout,Non-Academic,2019-02-08 18:30:00,2019-02-08 20:00:00,90.0
+38,Friend's House,2/8/2019,8:30pm,2/8/2019,11:45pm,Partying,Partying,Non-Academic,2019-02-08 20:30:00,2019-02-08 23:45:00,195.0
+39,Mollys,2/9/2019,12:30am,2/9/2019,2:00am,Partying,Partying,Non-Academic,2019-02-09 00:30:00,2019-02-09 02:00:00,90.0
+40,Friend's House,2/9/2019,2:30am,2/9/2019,12:00pm,Sleep,Sleep,Non-Academic,2019-02-09 02:30:00,2019-02-09 12:00:00,570.0
+41,My House,2/9/2019,12:15pm,2/9/2019,3:00pm,Work on Data Analysis,Work on Data Analysis,Academic,2019-02-09 12:15:00,2019-02-09 15:00:00,165.0
+42,NIU Recreation Centre,2/9/2019,3:15pm,2/9/2019,7:00pm,Workout,Workout,Non-Academic,2019-02-09 15:15:00,2019-02-09 19:00:00,225.0
+43,Friend's House,2/9/2019,7:30pm ,2/3/2019,11:00am,Partying,Partying,Non-Academic,2019-02-09 19:30:00,2019-02-03 11:00:00,-9150.0
+44,My House,2/3/2019,11:15am,2/3/2019,5:00pm,Work on Data Analysis,Work on Data Analysis,Academic,2019-02-03 11:15:00,2019-02-03 17:00:00,345.0
+45,Mardi Gras Lanes,2/3/2019,5:30pm,2/3/2019,10:00pm,Bowling,Bowling,Non-Academic,2019-02-03 17:30:00,2019-02-03 22:00:00,270.0
+46,My House,2/3/2019,10:30pm,2/3/2019,12:00am,Sleep,Sleep,Non-Academic,2019-02-03 22:30:00,2019-02-03 00:00:00,-1350.0

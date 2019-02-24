@@ -1,19 +1,16 @@
-Date,Building,Time-In,Time-Out,Reason,,,
-2019/02/02,-,-,-,-,,,
-2019/02/03,-,-,-,-,,,
-2019/02/04,"Cole Hall",10:00:00,11:25:00,"Android Programming Class",,,
-,"Health Services",11:30:00,12:20:00,"Medicine Re-Fill",,,
-,"Gabel Hall",13:00:00,16:30:00,"RA Office Hours",,,
-,"Computer Science and Psycology Building",16:45:00,18:20:00,"Data Visualization Class",,,
-2019/02/05,"Computer Science and Psycology Building",11:00:00,12:20:00,"Computer Networks Class",,,"Ignore the red cells"
-,McDonalds,12:40:00,13:15:00,Lunch,,,
-,"Gabel Hall",13:35:00,18:40:00,"RA Office Hours",,,
-2019/02/06,"Cole Hall",10:10:00,11:20:00,"Android Programming Class",,,
-,Chipotle,11:45:00,12:15:00,Lunch,,,
-,"Gabel Hall",12:20:00,16:30:00,"RA Office Hours",,,
-,"Computer Science and Psycology Building",16:45:00,18:20:00,"Data Visualization Class",,,
-2019/02/07,"Computer Science and Psycology Building",11:00:00,12:20:00,"Computer Networks Class",,,
-,Chipotle,12:40:00,13:10:00,Lunch,,,
-,"Gabel Hall",13:15:00,19:00:00,"RA Office Hours",,,
-2019/02/08,"NIU Student Recreation Center",16:00:00,17:00:00,Work-Out,,,
-2019/02/09,-,-,-,-,,,
+Date,Building,Time-In,Time-Out,Reason
+2019/02/04,"Cole Hall",10:00:00,11:25:00,"Android Programming Class"
+2019/02/04,"Health Services",11:30:00,12:20:00,"Medicine Re-Fill"
+2019/02/04,"Gabel Hall",13:00:00,16:30:00,"RA Office Hours"
+2019/02/04,"Computer Science and Psycology Building",16:45:00,18:20:00,"Data Visualization Class"
+2019/02/05,"Computer Science and Psycology Building",11:00:00,12:20:00,"Computer Networks Class"
+2019/02/05,McDonalds,12:40:00,13:15:00,Lunch
+2019/02/05,"Gabel Hall",13:35:00,18:40:00,"RA Office Hours"
+2019/02/06,"Cole Hall",10:10:00,11:20:00,"Android Programming Class"
+2019/02/06,Chipotle,11:45:00,12:15:00,Lunch
+2019/02/06,"Gabel Hall",12:20:00,16:30:00,"RA Office Hours"
+2019/02/06,"Computer Science and Psycology Building",16:45:00,18:20:00,"Data Visualization Class"
+2019/02/07,"Computer Science and Psycology Building",11:00:00,12:20:00,"Computer Networks Class"
+2019/02/07,Chipotle,12:40:00,13:10:00,Lunch
+2019/02/07,"Gabel Hall",13:15:00,19:00:00,"RA Office Hours"
+2019/02/08,"NIU Student Recreation Center",16:00:00,17:00:00,Work-Out
