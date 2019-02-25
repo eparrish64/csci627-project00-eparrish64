@@ -1,4 +1,4 @@
-,Day,Time In,Time Out,Location,Reason,Time_In,Time_Out,Time_Diff
+,Day,Time In,Time Out,Building,Reason,Time_In,Time_Out,Time_Diff
 0,2/4/19,11:00,15:55,Faraday,Work,2019-02-04 11:00:00,2019-02-04 15:55:00,295.0
 1,2/4/19,16:00,16:25,Library,coffee,2019-02-04 16:00:00,2019-02-04 16:25:00,25.0
 2,2/4/19,16:30,16:45,Faraday,grab laptop,2019-02-04 16:30:00,2019-02-04 16:45:00,15.0

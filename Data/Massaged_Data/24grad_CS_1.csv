@@ -1,4 +1,4 @@
-,Day,Building,Time In,Purpose,Time Out,Time_In,Time_Out,Time_Diff
+,Day,Building,Time In,Reason,Time Out,Time_In,Time_Out,Time_Diff
 0,02-04-2019,Parking lot,13:53,Parking,13:54,2019-02-04 13:53:00,2019-02-04 13:54:00,1.0
 1,02-04-2019,Faraday,14:00,TA Hours,17:00,2019-02-04 14:00:00,2019-02-04 17:00:00,180.0
 2,02-04-2019,CS Building,16:52,CSCI 627,18:45,2019-02-04 16:52:00,2019-02-04 18:45:00,113.0

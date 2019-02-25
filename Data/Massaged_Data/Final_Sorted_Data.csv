@@ -1,0 +1,55 @@
+building,reason,time_diff
+Adams,Other,224.0
+Adams,Work,123.0
+Altgeld Hall,Work,840.0
+Anderson Hall,Fun,29.0
+Business,Work,320.0
+CS,Class,13263.0
+CS,Fun,15.0
+CS,Homework/Study,302.0
+CS,Other,538.0
+CS,Work,4242.0
+Campus Life,Fun,600.0
+Campus Life,Work,81.0
+Cole,Class,1552.0
+Cole,Work,60.0
+Dusable,Food,89.0
+Dusable,Work,402.0
+Engineering,Fun,100.0
+Engineering,Work,985.0
+Faraday,Class,1958.0
+Faraday,Other,25.0
+Faraday,Work,2142.0
+Food,Food,260.0
+Food,Homework/Study,480.0
+Gabel,Class,1110.0
+Gabel,Work,60.0
+Gabel Hall,Class,1110.0
+Gabel Hall,Work,20.0
+Gilbert,Food,140.0
+Gilbert,Fun,10.0
+Graham,Work,130.0
+Health Services,Other,163.0
+Holmes,Food,684.0
+Holmes,Other,260.0
+Holmes,Work,664.0
+Library,Food,158.0
+Library,Fun,130.0
+Library,Homework/Study,1512.0
+Library,Other,140.0
+Library,Other,78.0
+Library,Work,4838.0
+Music,Class,30.0
+Neptune,Work,933.0
+Reavis Hall,Class,300.0
+Reavis Hall,Work,20.0
+Recreation,Food,1060.0
+Recreation,Fun,-4153.0
+Recreation,Homework/Study,240.0
+Recreation,Other,870.0
+Recreation,Work,4473.0
+Stevenson Towers,Work,835.0
+Still,Work,530.0
+Swen,Other,17.0
+Williston,Other,202.0
+Writz Hall,Fun,180.0

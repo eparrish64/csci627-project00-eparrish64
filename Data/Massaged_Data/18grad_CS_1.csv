@@ -1,4 +1,4 @@
-,Buildings,Arrival Day,Arrival Time,Leaving Day,Leaving Time,Reason,Activities,Activity Type,Time_In,Time_Out,Time_Diff
+,Building,Arrival Day,Arrival Time,Leaving Day,Leaving Time,Reason,Activities,Activity Type,Time_In,Time_Out,Time_Diff
 0,Friend's House,2/4/2019,12:00am,2/4/2019,2:00am,Dinner,Dinner,Non-Academic,2019-02-04 00:00:00,2019-02-04 02:00:00,120.0
 1,My House,2/4/2019,2:10am,2/4/2019,10:00am,Rest,Sleep,Non-Academic,2019-02-04 02:10:00,2019-02-04 10:00:00,470.0
 2,Gilbert Dining Hall,2/4/2019,10:10am,2/4/2019,10:15am,Drop Friend,Drop Friend,Non-Academic,2019-02-04 10:10:00,2019-02-04 10:15:00,5.0

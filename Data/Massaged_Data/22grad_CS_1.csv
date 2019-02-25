@@ -1,4 +1,4 @@
-,Place,Day,In,Out,Reason,Time_In,Time_Out,Time_Diff
+,Building,Day,In,Out,Reason,Time_In,Time_Out,Time_Diff
 0,Home,2/3/2019,00:01:00,15:30:00,"Cook, eat and sleep",2019-02-03 00:01:00,2019-02-03 15:30:00,929.0
 1,Recreation centre,2/3/2019,15:40:00,17:00:00,Ping pong,2019-02-03 15:40:00,2019-02-03 17:00:00,80.0
 2,Home,2/3/2019,17:10:00,09:45:00,"Cook, eat and sleep",2019-02-03 17:10:00,2019-02-03 09:45:00,-445.0
